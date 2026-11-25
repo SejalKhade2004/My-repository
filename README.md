@@ -1,6 +1,6 @@
 My AI Projects Portfolio
 
-Google NotebookLM Assignment
+1.Google NotebookLM Assignment
 
 Platform: Google NotebookLM
 
@@ -14,3 +14,12 @@ Skills Learned
 - AI-powered research
 - Information organization
 - Prompt engineering
+
+
+2. Google Gemini Gems
+
+Platform: Google Gemini
+
+Description: Custom AI assistants created using Gemini.
+
+Project Link: "Open Gemini Gems" (https://share.gemini.google/qPmfuOXDKsoc)
